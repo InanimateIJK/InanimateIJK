@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **C#, RobustToolbox**
 - 💤 Eventually going to look outward to **do much more.**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
